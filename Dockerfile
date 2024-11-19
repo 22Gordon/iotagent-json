@@ -20,7 +20,7 @@
 # please contact with: [daniel.moranjimenez@telefonica.com]
 
 ARG NODE_VERSION=12
-ARG GITHUB_ACCOUNT=telefonicaid
+ARG GITHUB_ACCOUNT=22Gordon
 ARG GITHUB_REPOSITORY=iotagent-json
 ARG DOWNLOAD=latest
 ARG SOURCE_BRANCH=master
